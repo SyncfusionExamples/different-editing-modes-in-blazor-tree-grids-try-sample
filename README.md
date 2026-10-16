@@ -47,10 +47,6 @@ dotnet restore
 dotnet run
 ```
 
-## Project Structure
-
-`Client/Pages/Index.razor` — Contains the primary Syncfusion TreeGrid implementation, column definitions, hierarchical data binding configuration, and editing setup.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
